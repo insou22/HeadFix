@@ -90,4 +90,11 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <snapshotRepository>
+            <id>insou-repo</id>
+            <url>http://repo.insouciance.co/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
+
 </project>
