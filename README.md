@@ -12,6 +12,6 @@ Next open your server's startup script in your favourite editor, it should look 
     
 Edit this to include the javaagent parameter, it should look like this:
 
-    java -javaagent:"HeadFix-v1.0-SNAPSHOT.jar -jar spigot-1.10.2.jar"
+    java -javaagent:"HeadFix-v1.0-SNAPSHOT.jar" -jar spigot-1.10.2.jar
 
 Start the server and... that's it! You're done, the signature verification will be removed at runtime and your favourite head plugin will begin working again!
