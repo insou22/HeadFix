@@ -1,3 +1,7 @@
+# NOTE
+This change was directly committed into CraftBukkit short thereafter so this resource is now obsolete.
+Feel free to use it for learning purposes.
+
 # HeadFix
 HeadFix is a resource designed to remove the new skull signature verification introduced into the Minecraft server in version 1.10+
 This uses Java Agents to change the NBT packaging method's bytecode and remove the new verification.
