@@ -4,7 +4,7 @@ This uses Java Agents to change the NBT packaging method's bytecode and remove t
 This means skull plugins such as [this one by me](https://www.spigotmc.org/resources/heads.26467/) and [this one by sothatsit](https://www.spigotmc.org/resources/heads-1500-heads-add-your-own.13402/) will still work in versions 1.10+
 
 # Installation
-Either manually compile the project or download the jar from the [releases](https://github.com/insou22/HeadsFix/releases).
+Either manually compile the project or download the jar from the [releases](https://github.com/insou22/HeadFix/releases).
 Paste the downloaded jar in your server's startup directory (the one that contains your spigot jar, your startup script, etc.)
 Next open your server's startup script in your favourite editor, it should look something like this:
 
